@@ -1,4 +1,5 @@
-﻿Select-AzSubscription ""
+﻿###Provide Subscription###
+Select-AzSubscription ""
 
 # Name of the resource group that contains the VM
 $rgName = ''
